@@ -21,8 +21,8 @@
 
 * `apt update`
 * `apt install git -y`
-* `git clone https://github.com/htr-tech/host.git`
-* `cd host`
+* `https://github.com/GuptajiiHacker/Vip-Host.git`
+* `cd Vip-Host`
 
 #### > Run : `bash host.sh`
 
