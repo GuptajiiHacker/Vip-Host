@@ -1,16 +1,16 @@
 #!/bin/bash
 
 ##   Host 	    : 	Expose your Localhost :) Temporary File hosting
-##   Author 	: 	TAHMID RAYAT 
-##   Version 	: 	2.3
-##   Github 	: 	https://github.com/htr-tech
+##   Author 	: 	KrishnaGupta 
+##   Version 	: 	1.1
+##   Github 	: 	https://github.com/GuptajiiHacker 
 
-## If you Copy Then Give the credits :)
+## If you Copy Then Give the credits : KrishnaGupta)
 
 ##                   GNU GENERAL PUBLIC LICENSE
-##                    Version 3, 29 June 2007
+##                    Version 3, 17 feb 2024
 ##
-##    Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+##    Copyright (C) 2024 Free Software Foundation, Inc. <https://fsf.org/>
 ##    Everyone is permitted to copy and distribute verbatim copies
 ##    of this license document, but changing it is not allowed.
 ##
@@ -77,7 +77,7 @@
 ##    The precise terms and conditions for copying, distribution and
 ##    modification follow.
 ##
-##      Copyright (C) 2022  HTR-TECH (https://github.com/htr-tech)
+##      Copyright (C) 2024  KrishnaGupta (https://github.com/GuptajiiHacker)
 ##
 
 # Deafult Port
@@ -110,14 +110,14 @@ kill_pid() {
 logo(){
 
 clear
-echo "${CY}     _    _           _   
-${CY}    | |  | |  ${CC}V${CB}-${CG}2.3${CY}  | |  
+echo"${CY} _    _           _   
+${CY}    | |  | |  ${CC}V${CB}-${CG}1.1${CY}  | |  
 ${CG}    | |__| | ___  ___| |_ 
 ${CG}    |  __  |/ _ \/ __| __|
 ${CY}    | |  | | (_) \__ \ |_ 
 ${CY}    |_|  |_|\___/|___/\__|
 ${RS}
-${CR} [${CW}~${CR}]${CY} Created By HTR-TECH ${CG}(${CC}Tahmid Rayat${CG})${RS}"
+${CR} [${CW}~${CR}]${CY} Created By KrishnaGupta${CG}(${CC}Its_Vip_Krishna_Gupta${CG})${RS}"
 
 }
 
