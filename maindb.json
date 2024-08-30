@@ -1,0 +1,10 @@
+{
+ "admin": {}
+    "username": "Admin",
+    "password": "$2y$05$w5lnhPzl3wpmflmLy3AP.OQXW36sbG8PzTyLa3RVKjgKlhw6Qozii",
+    "loginToken": "",
+    "logs": [ ],
+    "ipLog": [ ]
+ },
+    "clients": [ ]
+}
